@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>YEGOLOAN - Quick Loans</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{margin:0;font-family:Arial;background:#0a7a42;color:white;text-align:center;padding:20px}
+.box{background:white;color:#333;max-width:420px;margin:20px auto;padding:25px;border-radius:20px;box-shadow:0 10px 30px rgba(0,0,0,0.3)}
+h1{font-size:34px;margin-bottom:5px;letter-spacing:1px;text-transform:uppercase}
+.price{font-size:32px;color:#0a7a42;font-weight:bold}
+.btn{display:block;background:#25D366;color:white;padding:16px;border-radius:12px;text-decoration:none;font-size:18px;font-weight:bold;margin-top:15px}
+.btn2{display:block;background:#111;color:white;padding:14px;border-radius:12px;text-decoration:none;margin-top:10px;font-weight:bold}
+ul{text-align:left;line-height:1.8}
+</style>
+</head>
+<body>
+<h1>YEGOLOAN</h1>
+<p>Fast & Trusted Loans in Kenya</p>
+
+<div class="box">
+<div class="price">KES 500 - 50,000</div>
+<p>Same Day Approval • No CRB Check • 100% Mobile</p>
+<ul>
+<li>✅ ID + M-PESA Statement Only</li>
+<li>✅ Interest from 5% per month</li>
+<li>✅ Pay via M-PESA / Airtel Money</li>
+<li>✅ No PIN Required Ever</li>
+</ul>
+<a class="btn" href="https://wa.me/254103675234?text=Hello%20YEGOLOAN%2C%20I%20want%20a%20loan">📱 APPLY ON WHATSAPP</a>
+<a class="btn2" href="tel:+254103675234">📞 CALL NOW: 0103675234</a>
+<p><small>Mon - Sat 8am - 8pm<br>Location: Litein, Kenya<br>WhatsApp: +254 103 675 234</small></p>
+</div>
+<p>© 2026 YEGOLOAN. All Rights Reserved.</p>
+</body>
+</html>
